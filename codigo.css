@@ -1,0 +1,21 @@
+h1{
+    
+    font-size: 80px;
+    margin: 80px;
+   
+    
+}
+p{
+margin: 80px;
+}
+
+
+ul.horizontal li{ 
+    float: left;
+    
+    padding: 0; 
+    margin: auto;
+    position: relative; 
+    left: 50%;
+    }
+
